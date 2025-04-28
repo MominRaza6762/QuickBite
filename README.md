@@ -17,9 +17,7 @@ QuickBite is a food delivery web application where users can browse food categor
   - [Cart Endpoints](#cart-endpoints)
   - [Order Endpoints](#order-endpoints)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Live Demo
 Check out the live demo of the project:
 [QuickBite Live Demo](#)
