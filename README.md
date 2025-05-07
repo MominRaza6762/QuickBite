@@ -138,7 +138,7 @@ Access the project code and repository:
 4. Test the functionality of the cart, order placement, and order management system.
 5. Admin can monitor orders and manage the food menu in real-time.
 
-## 📸 Screenshots
+## <a name="screenshots"></a>📸 Screenshots
 
 
 ![Screenshot 1](./screenshots/screenshot1.png)
