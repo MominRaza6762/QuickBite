@@ -3,8 +3,6 @@
 QuickBite is a food delivery web application where users can browse food categories, add items to their cart, provide details, and place orders via a payment system. Admin users have full control over food items, order management, and can view user orders.
 
 ## Table of Contents
-- [Live Demo](#live-demo)
-- [GitHub Repository](#github-repository)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
@@ -19,13 +17,6 @@ QuickBite is a food delivery web application where users can browse food categor
 - [Usage](#usage)
 - [Screenshots](#screenshots)
   
-## Live Demo
-Check out the live demo of the project:
-[QuickBite Live Demo](#)
-
-## GitHub Repository
-Access the project code and repository:
-[QuickBite GitHub](#)
 
 ## Features
 
